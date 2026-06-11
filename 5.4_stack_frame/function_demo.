@@ -1,0 +1,15 @@
+#include <stdio.h>
+
+void greet()
+{
+    int age = 20;
+
+    printf("Age: %d\n", age);
+}
+
+int main()
+{
+    greet();
+
+    return 0;
+}
